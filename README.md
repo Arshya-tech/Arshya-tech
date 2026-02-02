@@ -6,28 +6,28 @@ I’m a Computer Science student who loves building technology that empowers peo
 
 I’m equally drawn to building and leading. I thrive in collaborative environments, enjoy mentoring and learning alongside others, and love taking ambitious ideas from concept to reality.
 
-🎓 Currently:
+### 🎓 Currently:
 Pursuing a Bachelor of Science in Computer Science at York University, where I blend hands-on development with leadership across large student organizations and hackathons.
 
-💡 What excites me:
+### 💡 What excites me:
 
-Turning complex problems into elegant, usable solutions
+* Turning complex problems into elegant, usable solutions
 
-Building products with real-world impact
+* Building products with real-world impact
 
-Working at the intersection of technology, community, and innovation
+* Working at the intersection of technology, community, and innovation
 
-Shipping things that people actually enjoy using
+* Shipping things that people actually enjoy using
 
-🚀 You’ll find here:
+### 🚀 You’ll find here:
 
-Personal and hackathon projects
+* Personal and hackathon projects
 
-Experiments with web, finance, and data-driven ideas
+* Experiments with web, finance, and data-driven ideas
 
-Code written with curiosity, intention, and a bit of polish
+* Code written with curiosity, intention, and a bit of polish
 
-Thanks for stopping by - feel free to explore or reach out. Always happy to connect ✨
+#### Thanks for stopping by - feel free to explore or reach out. Always happy to connect ✨
 <!--
 **Arshya-tech/Arshya-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
