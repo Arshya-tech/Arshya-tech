@@ -41,7 +41,7 @@ Pursuing a Bachelor of Science in Computer Science at York University, where I b
 
 <div align="center">
   <img
-    src="./assets/space-footer.svg"
+    src="./space-footer.svg"
     width="100%"
     alt="Animated cosmic sunrise waves"
   />
