@@ -1,5 +1,5 @@
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" width="1200" height="160">
   <defs>
     <linearGradient id="footerSky" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0%" stop-color="#101329"/>
@@ -34,8 +34,8 @@
     <circle cx="1080" cy="58" r="1.2"/>
   </g>
   
-  <!-- The best part is here :) -->
-  <!-- Back wave -->
+  <!-- The best part is here :) -->  
+    <!-- Back wave -->
   <path fill="#5c416e" opacity=".65">
     <animate attributeName="d"
       dur="11s" repeatCount="indefinite"
@@ -44,7 +44,7 @@
       M0,65 C180,25 300,115 480,70 S820,25 1000,85 S1150,110 1200,65 L1200,180 L0,180 Z;
       M0,85 C180,130 300,30 480,75 S820,130 1000,70 S1150,45 1200,75 L1200,180 L0,180 Z"/>
   </path>
-
+  
   <!-- Middle wave -->
   <path fill="#443153" opacity=".9">
     <animate attributeName="d"
@@ -54,7 +54,7 @@
       M0,90 C160,135 320,55 500,105 S820,135 1000,85 S1130,55 1200,105 L1200,180 L0,180 Z;
       M0,105 C160,55 320,135 500,95 S820,55 1000,105 S1130,125 1200,90 L1200,180 L0,180 Z"/>
   </path>
-
+  
   <!-- Front wave -->
   <path fill="url(#waveFront)">
     <animate attributeName="d"
