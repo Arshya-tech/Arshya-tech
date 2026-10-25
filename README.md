@@ -16,10 +16,10 @@ I’m a Computer Science student who loves building technology that empowers peo
 
 I’m equally drawn to building and leading. I thrive in collaborative environments, enjoy mentoring and learning alongside others, and love taking ambitious ideas from concept to reality.
 
-### 🎓 Currently:
+### Currently:
 Pursuing a Bachelor of Science in Computer Science at York University, where I blend hands-on development with leadership across large student organizations and hackathons.
 
-### 💡 What excites me:
+### What excites me:
 
 * Turning complex problems into elegant, usable solutions
 
@@ -29,7 +29,7 @@ Pursuing a Bachelor of Science in Computer Science at York University, where I b
 
 * Shipping things that people actually enjoy using
 
-### 🚀 You’ll find here:
+### You’ll find here:
 
 * Personal and hackathon projects
 
