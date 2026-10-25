@@ -1,3 +1,13 @@
+<div align="center">
+  <img
+    src="./space-banner.svg"
+    width="100%"
+    alt="Animated cosmic sunrise banner"
+  />
+</div>
+
+
+
 ## 👋 Hey there, I’m Arshya!
 
 Welcome to my little corner of GitHub.
